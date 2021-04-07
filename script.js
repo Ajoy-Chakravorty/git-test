@@ -5,5 +5,6 @@ function sum(n){
     //do the actual sum
     for(i=0;i<n.length;i++){summation+=n[i]}
     return summation;
+	console.log(sum(numbers));
 }
 console.log(sum(numbers));
