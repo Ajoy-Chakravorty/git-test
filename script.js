@@ -11,3 +11,5 @@ console.log(sum(numbers));
 
 
 //Added a random comment
+//Added by useru2
+
