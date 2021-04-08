@@ -8,3 +8,6 @@ function sum(n){
 	console.log(sum(numbers));
 }
 console.log(sum(numbers));
+
+
+//Added a random comment
