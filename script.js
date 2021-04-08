@@ -1,3 +1,4 @@
+
 var numbers=[1,2,3,4,5];
 
 function sum(n){
@@ -11,3 +12,5 @@ console.log(sum(numbers));
 
 
 //Added a random comment
+//Added another comment by user1
+
